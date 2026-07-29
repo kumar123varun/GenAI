@@ -1,0 +1,1 @@
+print("Trust is the foundation of all relationships.")
