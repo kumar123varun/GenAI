@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./venv/Python/class"
+        "./venv/Python/class",
+        "./venv/Python/class/class2"
     ]
 }
